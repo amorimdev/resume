@@ -5,7 +5,7 @@ São Paulo - Brazil
 
 ---
 
-####Chief Technology Officer
+#### Chief Technology Officer
 
 **Phone:** +55 11 95424-7003
 
