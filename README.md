@@ -5,7 +5,7 @@ São Paulo - Brazil
 
 ---
 
-####Technical Leader
+####Chief Technology Officer
 
 **Phone:** +55 11 95424-7003
 
@@ -30,11 +30,12 @@ São Paulo - Brazil
 ## Professional experience
 
 * **Btime Solutions [https://www.btime.com.br](www.btime.com.br)**
-> * Level: Senior/Technical Leader
-> * Backend experience: PHP, Symfony, Silex, MySQL, ElasticSearch, RabbitMQ
-> * Frontend experience: HTML5, CSS, jQuery, AngularJs
-> * Infrastructure experience: AWS IAM, EC2, Elastic Beanstalk, S3, Glacier, RDS, Elasticsearch, ElastiCache, Mobile Hub, Cognito, SNS, SES, SQS, Enterprise Applications, Scale Applications
-> * Extras: GitHub, NewRelic, Travis, DeployBot, AWS PHP SDK, RESTful API, Grunt, Gulp, Sass, Runscope, Ghostinspector, Jira Management (Workflow and Integrations), Confluense, Hipchat
+> * Level: Chief Technology Officer
+> * Backend experience: PHP, Symfony, Silex, NodeJs, ElasticSearch, RabbitMQ
+> * Frontend experience: HTML5, CSS, jQuery, AngularJs, ReactJs
+> * Mobile experience: Android Native, Swift, React Native
+> * Infrastructure experience: Amazon Web Services, IBM Bluemix
+> * Extras: GitHub, NewRelic, Travis, DeployBot, Runscope, Ghostinspector, Jira Management
 > * **Period:** *december 2015 – current | São Paulo, SP*
 
 * **HomeRefill [https://www.homerefill.com.br](www.homerefill.com.br)**
@@ -46,7 +47,7 @@ São Paulo - Brazil
 > * **Period:** *july 2015 – december 2015 (6 months) | São Paulo, SP*
 
 * **PrimeComm Agency [http://www.primecomm.com.br](www.primecomm.com.br)**
-> * Level: Full
+> * Level: Engineer/Senior
 > * Backend experience: PHP, Symfony, CakePHP, CodeIgniter, MySQL, PostgreSQL, MongoDB
 > * Frontend experience: HTML5, CSS, jQuery
 > * Infrastructure experience: AWS EC2, S3, RDS
@@ -55,7 +56,7 @@ São Paulo - Brazil
 > * **Period:** *may 2015 – october 2015 (6 months) | São Paulo, SP*
 
 * **Bus Scheduling Services - ClickBus (Rocket Internet GmbH) [https://www.clickbus.com.br](www.clickbus.com.br)**
-> * Level: Junior/Full
+> * Level: Engineer
 > * Backend experience: PHP, Symfony, MySQL
 > * Frontend experience: HTML5, CSS, jQuery, AngularJs
 > * Infrastructure experience: AWS EC2, S3
@@ -71,9 +72,9 @@ São Paulo - Brazil
 * Symfony
 * Silex
 * Laravel
-* RESTful
 * Elasticsearch
 * RabbitMQ
+* NodeJs
 
 **FrontEnd:**
 * HTML5
@@ -85,6 +86,12 @@ São Paulo - Brazil
 * Javascript
 * jQuery
 * AngularJS
+* ReactJS
+
+**Mobile:**
+* Android Native (Java)
+* iOS Native (Swift)
+* React Native
 
 **Database:**
 * MySQL
@@ -107,6 +114,7 @@ São Paulo - Brazil
 ## Extras Skills
 
 **Extras:**
+* RESTful API
 * SOLID (object-oriented design)
 * Design Patterns
 * Responsive Design
@@ -135,22 +143,20 @@ São Paulo - Brazil
 * PHP Storm
 * Android Studio
 * Netbeans
+* Atom
 * Eclipse
 * Visual Studio
-
-**Experiences in other languages:**
-* Android Native (Eclipse, Android Studio)
-* Some projects using C ++
-* Small projects using Java
 
 ---
 
 ## Additional Information
 
-* Facility and interest in learning
-* Creativity
+* Leadership and communication skills
 * Determination and responsibility
 * Easy to work in group
+* Entrepreneurial spirit
+* Constant learning
+* Creativity
 
 ---
 
